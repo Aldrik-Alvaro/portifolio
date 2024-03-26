@@ -183,8 +183,6 @@ O desafio do projeto foi criar um sistema para importar e armazenar dados meteor
 #### Implementação de filtros dinâmicos utilizando Ajax:
  - Implementei filtros dinâmicos com Ajax para permitir aos usuários filtrar e buscar informações de forma flexível.
 
-![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png)
-
 
 ### Hard Skills
 
