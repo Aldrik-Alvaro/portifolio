@@ -186,11 +186,8 @@ O desafio do projeto foi criar um sistema para importar e armazenar dados meteor
 
 ### Hard Skills
 
-- **Banco de Dados**: Conhecimento em bancos relacionais (MySQL, Oracle, PostgreSQL) e NoSQL (MongoDB, Cassandra).
-- **Linguagens de Programação**: Proficiência em Python, Java, C# e SQL.
-- **Ferramentas e Tecnologias de Data Engineering**: Experiência com ETL (Apache Spark, Apache Airflow, Talend) e frameworks de processamento distribuído.
-- **Data Warehousing**: Familiaridade com modelagem dimensional, cubos OLAP e ETL para integração de dados.
-- **Business Intelligence**: Conhecimento em Tableau, Power BI, QlikView para visualização de dados.
+- **Banco de Dados**: Conhecimento em bancos relacionais (PostgreSQL).
+- **Linguagens de Programação**: Proficiência em Python, Java e SQL.
 
 ### Soft Skills
 
@@ -240,7 +237,7 @@ O desafio do projeto foi desenvolver um software web para a Embraer que permitis
 
 - **Banco de Dados**: Conhecimento em bancos relacionais Oracle.
 - **Linguagens de Programação**: Proficiência em Java e Vue.js.
-- **Ferramentas e Tecnologias de Data Engineering**: Experiência com ETL (Apache Spark) e frameworks de processamento distribuído.
+- **Ferramentas e Tecnologias de Data Engineering**: Experiência com ETL (python).
 
 ### Soft Skills
 
