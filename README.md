@@ -107,22 +107,70 @@ Em 2/2023, trabalhei no projeto da API com o Parceiro Acadêmico Dom Rock.
 O desafio foi desenvolver uma solução para gerenciar a ativação de clientes na plataforma Dom Rock, integrando dados de parâmetros e variáveis de cada cliente para alocação de recursos. A equipe Fluffy desenvolveu um Sistema de Gerenciamento de Clientes em Java, com funcionalidades de cadastro, consulta, edição, relatórios, logs e exportação, e com níveis de acesso para garantir segurança dos dados.
 </p>
 
+![Gif](https://raw.githubusercontent.com/Aldrik-Alvaro/Dom_Rock/main/GIT/prototipo.gif)
+
+### Funcionalidades
+<details>
+  <summary><b>Gestão de Clientes</b></summary>
+  
+O sistema permitiu o registro completo de informações dos clientes, abrangendo dados de contato e endereço. Isso facilitou a administração do relacionamento com o cliente, proporcionando uma visão consolidada e de fácil acesso.
+</details>
+
+<details>
+  <summary><b>Catalogação de Soluções</b></summary>
+  
+Criação de uma base de dados que mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso proporcionava uma referência rápida e precisa sobre os produtos da empresa, tanto para a equipe interna quanto para os clientes.
+</details>
+
+<details>
+  <summary><b>Processo de Ativação</b></summary>
+  
+O sistema definiu e gerenciou o processo de ativação, dividindo-o em etapas específicas, cada uma com recursos e definições predefinidos. Isso garantiu uma ativação organizada e registrou o progresso para uma visão clara do status de cada cliente.
+</details>
+
+<details>
+  <summary><b>Relatórios e Consultas</b></summary>
+  
+As funcionalidades de consulta e relatórios ofereceram uma análise detalhada dos dados, permitindo aos usuários visualizar métricas importantes, como desempenho por cliente, tipo de solução ativada e estágio do processo de ativação. Esses insights ajudaram nas decisões estratégicas, proporcionando uma compreensão completa do ambiente operacional.
+</details>
+
+
 ### Tecnologias Utilizadas
 
 - [Java SE 14](https://www.oracle.com/java/): Linguagem para desenvolvimento do back-end em Java.
 - [JavaFX](https://openjfx.io/): Plataforma para criação de interfaces gráficas em Java.
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): Linguagem para o desenvolvimento do front-end.
-- [SQL Server](https://www.microsoft.com/pt-br/sql-server): Sistema Gerenciador de Banco de Dados (SGBD) desenvolvido pela Microsoft.
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server): Sistema Gerenciador de Banco de Dados (SGBD).
 
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Banco de dados:
- - Desempenhei um papel no desenvolvimento do banco de dados SQL Server, trabalhando no design, estruturação e implementação das funcionalidades específicas necessárias para o projeto.
+Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server, trabalhei desde seu design, estruturação e implementação de Tabelas, Gatilhos e Funções. Minhas atividades envolveram:
+ - Design do banco de dados.
+ - Criação e gerenciamentos de tabelas, gatilhos e funções.
+ - Criação de views para a visualização de insights.
+ 
 
 
 ### Hard Skills
-
-- **Banco de Dados**: Conhecimento específico em SQL Server para bancos relacionais.
+ <table>
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>SQL Server</td>
+      <td>★★★★★</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Desenvolvedor</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
 
 
 ### Soft Skills
