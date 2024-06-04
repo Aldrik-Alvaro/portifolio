@@ -211,6 +211,7 @@ Em 6/2022, trabalhei no projeto da API com o Parceiro Acadêmico IACIT.
 <p align="justify">
 O desafio do projeto foi criar um sistema para importar e armazenar dados meteorológicos em uma base de dados, permitindo criar dashboards para análise dos dados e exportação de relatórios desejados pelos clientes.
 </p>
+<img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="100%" height="100%">
 
 ### Tecnologias Utilizadas
 
@@ -262,7 +263,7 @@ Em 2/2023, trabalhei no projeto da API com o Parceiro Acadêmico Embraer.
 <p align="justify">
 O desafio do projeto foi desenvolver um software web para a Embraer que permitisse aos usuários acessar toda a documentação de diversos tipos de aviões de maneira simples e intuitiva por meio de dispositivos móveis, possibilitando o acesso ao manual em qualquer lugar e a qualquer momento.
 </p>
-
+<img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/gifSprint4.gif" width="100%" height="100%">
 
 ### Tecnologias Utilizadas
 
@@ -318,6 +319,7 @@ Em 6/2023, trabalhei no projeto da API com o Parceiro Acadêmico Oracle.
 <p align="justify">
 O desafio consistiu em desenvolver um sistema web que permitisse o gerenciamento de insumos e funcionários, além de fornecer visualização de dados processados para que o proprietário do negócio possa gerenciar suas vendas, estoques, equipe de trabalho e projetar suas ações futuras.
 </p>
+<img src = "./Documentacao/Mockup/Mockup_1_Sprint_1.jpg">
 
 ### Tecnologias Utilizadas
 
