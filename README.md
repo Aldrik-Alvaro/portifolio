@@ -530,6 +530,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 Em 02/2024, trabalhei no projeto da API com o Parceiro Acadêmico Imagem | Esri.
 <p align="justify">
+<p align="center"><img src="https://raw.githubusercontent.com/Fluffy-Fatec/Projeto-Integrador-Imagem/main/Documentation/Team/pandalyzeheader.jpg" width="100%"></img></p>
 
 O desafio é compreender profundamente o sentimento dos clientes através de uma plataforma sofisticada que analisa avaliações online. Integrando tecnologias avançadas para mapear e visualizar esses sentimentos em um contexto geográfico real, permitindo que as empresas ajustem suas estratégias com uma precisão sem precedentes. 
 </p>
