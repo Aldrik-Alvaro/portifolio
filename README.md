@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/IMG_20230921_181017.jpg" width="15%"></p>
 
 <p align="justify">
-Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal, tenho 22 anos e resido em São José dos Campos. Minha paixão pela programação começou enquanto eu estava estudando no curso técnico de Análise e Desenvolvimento de Sistemas na ETEC Ilza Nascimento Pintus, onde percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
+Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal, tenho 23 anos e resido em São José dos Campos. Minha paixão pela programação começou enquanto eu estava estudando no curso técnico de Análise e Desenvolvimento de Sistemas na ETEC Ilza Nascimento Pintus, onde percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
 </p>
 
 <p align="justify">
@@ -37,16 +37,34 @@ Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução,
 
 ## Pandemia Estruturada
 
-- **1º Semestre** • 6/2021 • [Repositório Github](https://github.com/SoSoJigsaw/Carcara)
+- **1º Semestre** • 6/2021 • [Repositório Github](https://github.com/Aldrik-Alvaro/CarcaraAPI)
 - Parceiro Acadêmico: [Fatec](https://fatecsjc-prd.azurewebsites.net/)
 
-![Imagem](https://github.com/SoSoJigsaw/Carcara/blob/main/Sprint%201/Logos/Carcar%C3%A1%20Logo%20Alternativa%20(fundo%20ros%C3%AA).jpg)
+![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/portifolio/main/videos%20e%20imagens/1%20Semestre/1.jpg)
 
 
 Em 6/2021, trabalhei no projeto da API com o Parceiro Acadêmico Fatec.
 <p align="justify">
 Nosso objetivo foi analisar os dados da COVID-19 no estado de São Paulo e entregá-los ao usuário de forma clara e contextualizada, por meio de visualizações gráficas. Sendo a simplicidade um dos princípios do projeto, as visualizações serão geradas pensando prioritariamente na utilidade prática que podem oferecer ao cliente.
 </p>
+
+![gif2](https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/1%20Semestre/1.gif)
+![gif3](https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/1%20Semestre/2.gif)
+
+### Funcionalidades
+<details>
+  <summary><b>Páginas Informativas</b></summary>
+  O sistema fornecia informações detalhadas sobre casos e óbitos, taxa de vacinação e leitos disponíveis, oferecendo esses dados de maneira acessível e direta aos usuários.
+</details>
+<details>
+  <summary><b>Filtragem de Dados</b></summary>
+  Foi implementada uma variedade de filtros que permitem aos usuários selecionar estados e municípios por data, possibilitando a obtenção de insights valiosos sobre a pandemia.
+</details>
+<details>
+  <summary><b>Painéis Totalizadores</b></summary>
+  O sistema incluía uma aba com painéis totalizadores, apresentando informações relevantes sobre o andamento da pandemia de forma consolidada.
+</details>
+
 
 ### Tecnologias Utilizadas
 
@@ -59,29 +77,44 @@ Nosso objetivo foi analisar os dados da COVID-19 no estado de São Paulo e entre
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Front-end:
- - Desempenhei um papel no desenvolvimento do front-end, implementando funcionalidades no projeto.
+ - Atuei no desenvolvimento do front-end, implementando funcionalidades como a criação de páginas informativas, filtros de dados e painéis totalizadores.
 
 #### Comunicação entre front-end e back-end:
- - Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
+ - Assegurei uma comunicação entre as camadas front-end e back-end, utilizando APIs RESTful para garantir a correta transmissão de informações e dados.
 
-<!-- ![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/VIDEOS/1.png) -->
 
 ### Hard Skills
+ <table>
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Flask</td>
+      <td>★☆☆☆☆</td>
+    </tr>
+  </table>
 
-- **HTML**: Conhecimento avançado em linguagens de marcação para web.
-- **Python**: Proficiência em Python, incluindo conhecimentos em frameworks como Flask.
+  ### Soft Skills
 
-
-### Soft Skills
-
-- **Resolução de Problemas**
-- **Pensamento Analítico**
-- **Comunicação Efetiva**
-- **Pensamento Crítico**
-- **Adaptabilidade**
-- **Trabalho em Equipe**
+**Adaptabilidade**
+- <p align="justify">Trabalhando com diversas linguagens e tecnologias que eu nunca havia utilizado antes, consegui adaptar e expandir meu conhecimento para novos horizontes.</p>
+**Trabalho em Equipe**
+- <p align="justify">Como meu primeiro projeto na Fatec, esse foi também o meu primeiro projeto em equipe utilizando a metodologia Scrum. Essa experiência me ensinou que o trabalho em equipe é fundamental para o sucesso do projeto.</p>
 
 </details>
+
+
+
+
 
 
 
@@ -108,6 +141,7 @@ O desafio foi desenvolver uma solução para gerenciar a ativação de clientes 
 </p>
 
 ![Gif](https://raw.githubusercontent.com/Aldrik-Alvaro/Dom_Rock/main/GIT/prototipo.gif)
+![Imagem](https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/2%20Semestre/3.jpg)
 
 ### Funcionalidades
 <details>
@@ -144,6 +178,7 @@ As funcionalidades de consulta e relatórios ofereceram uma análise detalhada d
 
 ### Contribuições Pessoais
 
+
 #### Desenvolvimento do Banco de dados:
 Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server, trabalhei desde seu design, estruturação e implementação de Tabelas, Gatilhos e Funções. Minhas atividades envolveram:
  - Design do banco de dados.
@@ -166,19 +201,15 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server
       <td>Java</td>
       <td>★★☆☆☆</td>
     </tr>
-    <tr>
-      <td>Scrum - Desenvolvedor</td>
-      <td>★★★★☆</td>
-    </tr>
   </table>
 
 
 ### Soft Skills
 
-- **Resolução de Problemas**
-- **Comunicação eficaz**
-- **Flexibilidade**
-- **Trabalho em Equipe**
+**Resolução de Problemas**
+- <p align="justify">Durante o projeto, após uma das entregas, houve a necessidade de refatorar o banco de dados para melhor alinhar com os requisitos do cliente. Nesse momento, a comunicação com o Product Owner foi fundamental para realmente entender as expectativas e necessidades do cliente, garantindo que as alterações fossem adequadas e eficazes.</p>
+**Comunicação eficaz**
+- <p align="justify">Durante o desenvolvimento, recebemos muitos feedbacks do cliente que nos direcionaram ao caminho correto. Foi essencial entender detalhadamente as necessidades do cliente para garantir que o produto final atendesse suas expectativas. Utilizamos essas informações para ajustar nossas abordagens e aprimorar continuamente o projeto, assegurando a entrega de uma solução alinhada com os requisitos do cliente.</p>
 
 </details>
 
@@ -211,7 +242,31 @@ Em 6/2022, trabalhei no projeto da API com o Parceiro Acadêmico IACIT.
 <p align="justify">
 O desafio do projeto foi criar um sistema para importar e armazenar dados meteorológicos em uma base de dados, permitindo criar dashboards para análise dos dados e exportação de relatórios desejados pelos clientes.
 </p>
-<img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="100%" height="100%">
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Aldrik-Alvaro/portifolio/main/videos%20e%20imagens/3%20Semestre/3.gif" width="100%"></img>
+</p>
+
+![Imagem](https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/3%20Semestre/2.jpg)
+
+### Funcionalidades
+<details>
+  <summary><b>Cadastro de Estados e Regiões</b></summary>
+  
+O cadastro de Estados e Regiões proporcionou uma organização precisa das operações, permitindo análises específicas por região e melhorando consideravelmente a contextualização das informações.
+</details>
+
+<details>
+  <summary><b>Geração de Relatórios</b></summary>
+  
+A geração de Relatórios foi uma ferramenta indispensável para extrair insights valiosos e avaliar o desempenho do sistema. A capacidade de criar relatórios personalizados permitiu uma visualização abrangente dos dados, oferecendo detalhes sobre o estado das estações, o desempenho regional e as tendências temporais.
+</details>
+
+<details>
+  <summary><b>Importação de Dados</b></summary>
+  
+A Importação de Dados otimizou o fluxo de informações no sistema, facilitando a transferência rápida de grandes conjuntos de dados. Isso assegurou uma atualização eficiente do sistema, mantendo sempre atualizado e pronto para fornecer análises precisas.
+</details>
 
 ### Tecnologias Utilizadas
 
@@ -224,28 +279,43 @@ O desafio do projeto foi criar um sistema para importar e armazenar dados meteor
 ### Contribuições Pessoais
 
 #### Desenvolvimento do back-end:
- - Desempenhei um papel fundamental no desenvolvimento do back-end, implementando funcionalidades e lógica de negócios.
+ - Fui responsável pelo desenvolvimento do back-end utilizando Java SE 14 e o framework Spring Boot. Implementei funcionalidades essenciais e a lógica de negócios, criando endpoints RESTful para manipulação de dados. Utilizei técnicas de injeção de dependência e configuração automática para melhorar a eficiência e modularidade do código.
 
 #### Comunicação entre front-end e back-end:
- - Garanti uma comunicação eficiente entre as camadas front-end e back-end, assegurando a transmissão correta de informações.
+ - Assegurei uma comunicação eficiente entre o front-end e o back-end, implementando APIs RESTful com Spring Boot. Utilizei Thymeleaf para renderizar templates HTML e facilitar a integração entre as camadas. Configurei mecanismos de autenticação e autorização usando JWT, garantindo a segurança na transmissão de informações.
 
 #### Implementação de filtros dinâmicos utilizando Ajax:
- - Implementei filtros dinâmicos com Ajax para permitir aos usuários filtrar e buscar informações de forma flexível.
+ - Implementei filtros dinâmicos utilizando Ajax para proporcionar uma experiência de usuário mais responsiva e interativa. Utilizei JavaScript para realizar requisições assíncronas ao servidor, permitindo a atualização em tempo real dos dados exibidos sem a necessidade de recarregar a página. Desenvolvi a lógica de filtragem no back-end, garantindo que os resultados retornados fossem precisos e relevantes.
 
 
-### Hard Skills
+### Hard Skills  
+<table>
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>HTML</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Bootstrap</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Chart.js</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
 
-- **Banco de Dados**: Conhecimento em bancos relacionais (PostgreSQL).
-- **Linguagens de Programação**: Proficiência em Python, Java e SQL.
 
 ### Soft Skills
 
-- **Resolução de Problemas**
-- **Pensamento Analítico**
-- **Comunicação Efetiva**
-- **Pensamento Crítico**
-- **Adaptabilidade**
-- **Trabalho em Equipe**
+**Trabalho em Equipe**
+- <p align="justify">Durante o projeto, após uma das entregas, a cliente expressou o desejo de ter os gráficos divididos em categorias em vez de um único dashboard com todo o conteúdo. Nesse momento, o trabalho em equipe foi fundamental para resolvermos a questão da implementação. Como uma das responsáveis pela criação dos gráficos, pude participar ativamente da divisão das tarefas e da implementação junto com a equipe.</p>
+
+**Capacidade de Aprender Rapidamente**
+- <p align="justify">Durante o desenvolvimento do projeto Enfrentei o desafio de plotar o primeiro gráfico com os dados gerados pela API, algo que nunca havia realizado anteriormente, o que exigiu aprender rapidamente para conseguir realizar a entrega na sprint. Isso envolveu assistir a vídeos, ler documentações e realizar pesquisas para superar as dificuldades encontradas no caminho.</p>
 
 </details>
 
@@ -263,7 +333,35 @@ Em 2/2023, trabalhei no projeto da API com o Parceiro Acadêmico Embraer.
 <p align="justify">
 O desafio do projeto foi desenvolver um software web para a Embraer que permitisse aos usuários acessar toda a documentação de diversos tipos de aviões de maneira simples e intuitiva por meio de dispositivos móveis, possibilitando o acesso ao manual em qualquer lugar e a qualquer momento.
 </p>
-<img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/gifSprint4.gif" width="100%" height="100%">
+<img src="https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/4%20Semestre/2.gif" width="100%" height="100%">
+<img src="https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/4%20Semestre/3.png" width="100%" height="100%">
+<img src="https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/4%20Semestre/4.png" width="100%" height="100%">
+
+### Funcionalidades
+
+<details>
+  <summary><b>Estruturação e Persistência de Dados no Banco de Dados</b></summary>
+  
+Foi Projetada e implementada uma estrutura de dados adequada para armazenar informações sobre veículos, clientes e itens opcionais no banco de dados.
+</details>
+
+<details>
+  <summary><b>Interface de Consulta para Itens Opcionais de Veículos</b></summary>
+  
+Uma interface amigável foi desenvolvida para permitir aos usuários visualizarem facilmente a lista de itens opcionais disponíveis para os veículos.
+</details>
+
+<details>
+  <summary><b>Sistema de Configuração de Notificações para Atualizações</b></summary>
+  
+Implentação de um sistema que permite aos usuários configurarem notificações para receberem alertas personalizados sobre atualizações relevantes no sistema.
+</details>
+
+<details>
+  <summary><b>Interface Administrativa para Modificação e Remoção de Clientes</b></summary>
+  
+A interface administrativa foi criada para permitir aos administradores realizar modificações e remoções de clientes do banco de dados com facilidade e segurança.
+</details>
 
 ### Tecnologias Utilizadas
 
@@ -283,17 +381,34 @@ O desafio do projeto foi desenvolver um software web para a Embraer que permitis
  - Desempenhei um papel fundamental no design, implementação e manutenção do banco de dados Oracle Autonomous, garantindo sua integridade e desempenho para atender às necessidades do projeto.
 
 ### Hard Skills
-
-- **Banco de Dados**: Conhecimento em bancos relacionais Oracle.
-- **Linguagens de Programação**: Proficiência em Java e Vue.js.
-- **Ferramentas e Tecnologias de Data Engineering**: Experiência com ETL (python).
+   <table>
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Oracle Analytics</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Vue.js</td>
+      <td>★★★★☆</td>
+    </tr>
+     <tr>
+      <td>Oracle Autonomous Database</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
 
 ### Soft Skills
 
-- **Resolução de Problemas**
-- **Pensamento Crítico**
-- **Adaptabilidade**
-- **Trabalho em Equipe**
+**Criatividade**
+- <p align="justify">Durante o projeto, enfrentamos desafios que exigiam soluções criativas para atividades desconhecidas. Em uma situação em que precisávamos de uma solução rápida, optamos por criar notificações por trigger no banco de dados. Essa abordagem nos permitiu armazenar informações e notificar o cliente sobre atualizações importantes, melhorando significativamente a funcionalidade do sistema.</p>
+
+**Comunicação Assertiva**
+- <p align="justify">Durante o projeto, foi essencial exercitar minha habilidade de comunicação assertiva ao negociar as entregas com o cliente. Este aspecto foi fundamental para garantir que a equipe pudesse executar o projeto de forma eficaz, atendendo às expectativas estabelecidas. Essa interação pessoal foi crucial para alinhar as necessidades do cliente com as capacidades da equipe, resultando em um processo de trabalho mais fluido e produtivo.</p>
+
+
 
 </details>
 
@@ -313,13 +428,41 @@ O desafio do projeto foi desenvolver um software web para a Embraer que permitis
 - **5º Semestre** • 6/2023 • [Repositório Github](https://github.com/Aldrik-Alvaro/Projeto-Integrador-Oracle)
 - Parceiro Acadêmico: [Oracle](https://www.oracle.com/br/)
 
-![Imagem](https://raw.githubusercontent.com/Aldrik-Alvaro/Projeto-Integrador-Oracle/main/Documentacao/Team/imgOracleFatec_1.jpg)
+
 
 Em 6/2023, trabalhei no projeto da API com o Parceiro Acadêmico Oracle.
 <p align="justify">
 O desafio consistiu em desenvolver um sistema web que permitisse o gerenciamento de insumos e funcionários, além de fornecer visualização de dados processados para que o proprietário do negócio possa gerenciar suas vendas, estoques, equipe de trabalho e projetar suas ações futuras.
 </p>
-<img src = "./Documentacao/Mockup/Mockup_1_Sprint_1.jpg">
+
+<img src="https://raw.githubusercontent.com/Aldrik-Alvaro/Projeto-Integrador-Oracle/main/Documentacao/Team/imgOracleFatec_1.jpg" width="100%" height="100%">
+
+### Funcionalidades
+
+<details>
+  <summary><b>Organização de Painéis de Gerenciamento</b></summary>
+  
+Esta funcionalidade permitia aos usuários criar e visualizar painéis personalizados para gerenciar diferentes aspectos do restaurante, incluindo pessoal, fornecedores e insumos. Os usuários podiam organizar e personalizar esses painéis de acordo com suas necessidades específicas.
+</details>
+
+<details>
+  <summary><b>Painel de Controle de Fluxo</b></summary>
+  
+O painel de controle de fluxo oferecia uma visão ampla do fluxo de funcionários, clientes e inventário. Ele fornecia informações sobre o movimento dentro do restaurante, permitindo aos usuários identificar padrões e otimizar a alocação de recursos.
+</details>
+
+<details>
+  <summary><b>Comparadores Analíticos</b></summary>
+  
+Os comparadores analíticos eram ferramentas poderosas para análise de dados. Eles permitiam comparar a relação entre clientes, equipe e estoque, além de prever as necessidades de insumos para a preparação de pratos. Os usuários podiam identificar tendências, oportunidades de melhoria e fazer previsões mais precisas com base nos dados apresentados.</details>
+
+<details>
+  <summary><b>Recomendações de Compras e Alocação de Pessoal</b></summary>
+  
+Com base nas análises feitas pelos comparadores, o sistema gerava recomendações automáticas de compras de insumos e alocação de pessoal. Isso ajudava os usuários a tomar decisões mais informadas e eficientes, garantindo que o restaurante estivesse sempre bem abastecido e operando de maneira otimizada.
+</details>
+
+<img src="https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/5%20Semestre/2.gif" width="100%" height="100%">
 
 ### Tecnologias Utilizadas
 
@@ -344,15 +487,139 @@ O desafio consistiu em desenvolver um sistema web que permitisse o gerenciamento
 
 
 ### Hard Skills
-
-- **Oracle Analytics**: Proficiência em criação de visualizações e análises de dados utilizando Oracle Analytics, com foco em apresentações visuais para tomada de decisões.
-- **Linguagens de Programação**: Proficiência em JavaScript para desenvolvimento front-end.
-
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Oracle Analytics</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>Spring Boot</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>Vue.js</td>
+    <td>★★★★☆</td>
+  </tr>
+</table>
 
 ### Soft Skills
 
-- **Pensamento Crítico**
-- **Adaptabilidade**
-- **Trabalho em Equipe**
+**Planejamento e Organização**
+- <p align="justify">Durante o desenvolvimento do backend neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
+
+**Proatividade**
+- <p align="justify">Durante o projeto, demonstrei proatividade ao oferecer suporte aos colegas e ao antecipar possíveis obstáculos. Uma das formas em que isso se manifestou foi na minha iniciativa em realizar testes unitários regularmente para garantir que as funcionalidades estivessem funcionando conforme o esperado. Essa abordagem não apenas assegurou a qualidade do código, mas também contribuiu para o bem-estar da equipe, mantendo um ambiente de trabalho mais estável e produtivo.</p>
+
+</details>
+
+
+
+<details>
+  <summary>6° - Imagem | Esri</summary>
+
+## Imagem | Esri
+
+- **6º Semestre** • 6/2023 • [Repositório Github](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem)
+- Parceiro Acadêmico: [Imagem | Esri](https://www.img.com.br/pt-br/home)
+
+
+
+Em 02/2024, trabalhei no projeto da API com o Parceiro Acadêmico Imagem | Esri.
+<p align="justify">
+
+O desafio é compreender profundamente o sentimento dos clientes através de uma plataforma sofisticada que analisa avaliações online. Integrando tecnologias avançadas para mapear e visualizar esses sentimentos em um contexto geográfico real, permitindo que as empresas ajustem suas estratégias com uma precisão sem precedentes. 
+</p>
+<p align="center"><img src="https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/6%20Semestre/gif-imagem.gif" width="100%"></img></p>
+</br>
+<p align="center"><img src="https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/6%20Semestre/pandalyzefundo.jpg" width="100%"></img></p>
+
+#### Funcionalidades
+
+<details>
+  <summary><b>Visão Geral da Análise de Sentimento</b></summary>
+Esta funcionalidade oferecia aos usuários uma visão consolidada da análise de sentimento em uma única tela. Eles podiam visualizar métricas-chave de sentimentos através de gráficos e tabelas, permitindo uma compreensão rápida e abrangente do panorama geral.
+
+</details>
+<details>
+  <summary><b>Exploração Geográfica Interativa</b></summary>
+O recurso de exploração geográfica interativa permitia aos usuários explorar a distribuição geográfica dos dados em um mapa interativo. Isso facilitava a compreensão de como os sentimentos dos clientes variavam de acordo com a localização, fornecendo insights valiosos para ajustes estratégicos.
+
+</details>
+<details>
+  <summary><b>Sistema de Permissões e Login Seguro</b></summary>
+O sistema de permissões e login seguro garantia que os usuários acessassem apenas as informações relevantes e protegiam os dados sensíveis. Os diferentes níveis de acesso garantiam a segurança e a privacidade dos dados, enquanto o login seguro por e-mail e senha fornecia uma camada adicional de proteção.
+
+</details>
+<details>
+  <summary><b>Edição de Perfil e Alteração de Senha</b></summary>
+Os recursos de edição de perfil e alteração de senha permitiam aos usuários gerenciar suas informações pessoais com facilidade. Eles podiam atualizar seus dados, como nome, e-mail e senha, conforme necessário, garantindo precisão e segurança em suas contas.
+
+</details>
+<details>
+  <summary><b>Filtragem Avançada e Visualização em Tabela</b></summary>
+A capacidade de filtragem avançada e visualização em tabela oferecia aos usuários uma maneira eficiente de explorar e analisar os dados. Eles podiam filtrar os dados por categoria de sentimento e período, além de visualizá-los em uma tabela única para uma compreensão mais detalhada e abrangente.
+
+</details>
+<details>
+  <summary><b>Expiração de Sessão e Notificações</b></summary>
+A funcionalidade de expiração de sessão e notificações garantia a segurança e a conveniência dos usuários. As sessões expiravam automaticamente após um determinado período de inatividade, enquanto as notificações alertavam os usuários sobre as solicitações de alterações e a necessidade de aprovação das mesmas.
+
+</details>
+<details>
+  <summary><b>Logout Manual</b></summary>
+O logout manual oferecia aos usuários controle sobre suas próprias sessões. Eles podiam encerrar a sessão manualmente a qualquer momento, garantindo a segurança e a privacidade de seus dados.
+
+</details>
+
+### Tecnologias Utilizadas
+
+- [Java SE 14](https://www.java.com/pt-BR/): linguagem para desenvolvimento da aplicação para back-end.
+- [Spring Boot](https://spring.io/): framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.
+- [Python](https://www.java.com/pt-BR/): é uma linguagem de programação de alto nível amplamente utilizada para análise de dados, machine learning, desenvolvimento web e uma variedade de outras aplicações.
+- [React.js](https://react.dev/): React é uma biblioteca JavaScript de código-aberto, focalizada no desenvolvimento de interfaces de usuário.
+- [Material-UI](https://mui.com/material-ui/getting-started/installation/): é uma biblioteca de componentes React para construir interfaces de usuário consistentes e bonitas.
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): utilizado para estilização do dashboard.
+- [ApexCharts](https://www.oracle.com/business-analytics/): é uma biblioteca JavaScript de gráficos interativos de código-aberto, que oferece uma ampla gama de opções para visualização de dados.
+- [PostgreSQL](https://www.postgresql.org): sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.
+- [Figma](https://www.figma.com/): ferramenta para o desenvolvimento e prototipação das wireframes. 
+
+
+### Contribuições Pessoais
+
+#### Desenvolvimento do Banco de dados:
+Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server, trabalhei desde seu design, estruturação e implementação de Tabelas, Gatilhos e Funções. Minhas atividades envolveram:
+ - Design do banco de dados.
+ - Criação e gerenciamentos de tabelas, gatilhos e funções.
+ - Criação de views para a visualização de insights.
+ 
+
+
+### Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>PostgreSQL</td>
+    <td>★★★★☆</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>★★★★☆</td>
+  </tr>
+</table>
+
+### Soft Skills
+
+**Planejamento e Organização**
+- <p align="justify">Durante o desenvolvimento do banco de dados neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend e back end tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
+
+**Proatividade**
+- <p align="justify">Durante o projeto, demonstrei proatividade ao oferecer suporte aos colegas e ao antecipar possíveis obstáculos. Uma das formas em que isso se manifestou foi na minha iniciativa em realizar testes unitários regularmente para garantir que as funcionalidades estivessem funcionando conforme o esperado. Essa abordagem não apenas assegurou a qualidade do código, mas também contribuiu para o bem-estar da equipe, mantendo um ambiente de trabalho mais estável e produtivo.</p>
 
 </details>
