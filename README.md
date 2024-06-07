@@ -206,8 +206,7 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server
 ### Soft Skills
 
 **Resolução de Problemas**
-- <p align="justify">
-Durante o projeto, após uma das entregas, surgiu a necessidade de refatorar o banco de dados para melhor alinhar com os requisitos do cliente. Nesse momento, a comunicação com o Product Owner foi fundamental para compreender plenamente as expectativas e necessidades do cliente, garantindo que as alterações fossem apropriadas e eficazes.</p>
+- <p align="justify">Durante o projeto, após uma das entregas, surgiu a necessidade de refatorar o banco de dados para melhor alinhar com os requisitos do cliente. Nesse momento, a comunicação com o Product Owner foi fundamental para compreender plenamente as expectativas e necessidades do cliente, garantindo que as alterações fossem apropriadas e eficazes.</p>
 **Comunicação eficaz**
 - <p align="justify">Durante o desenvolvimento, recebemos muitos feedbacks do cliente que nos direcionam ao caminho correto. Foi essencial entender detalhadamente as necessidades do cliente para garantir que o produto final atende-se às suas expectativas. Utilizei essas informações para ajustar nossas abordagens e aprimorar continuamente o projeto.</p>
 
@@ -306,7 +305,7 @@ A importação de dados otimiza o fluxo de informações no sistema, facilitando
 ### Soft Skills
 
 **Trabalho em Equipe**
-- <p align="justify">Durante o projeto, o cliente expressou a vontantade de possuir um crud para gerenciamento de usuarios em sua plataforma, como era algo que não estava em nosso escopo, foi necessario um esforço maior da equipe para que atendenssemos a solicitação do cliente.</p>
+- <p align="justify">Durante o projeto, o cliente expressou a vontade de possuir um CRUD para gerenciamento de usuários em sua plataforma. Como isso não estava em nosso escopo, foi necessário um esforço maior da equipe para que atendêssemos à solicitação do cliente.</p>
 
 </details>
 
