@@ -144,28 +144,27 @@ O desafio foi desenvolver uma solução para gerenciar a ativação de clientes 
 ![Imagem](https://github.com/Aldrik-Alvaro/portifolio/blob/main/videos%20e%20imagens/2%20Semestre/3.jpg)
 
 ### Funcionalidades
+
+Funcionalidades
 <details>
   <summary><b>Gestão de Clientes</b></summary>
-  
-O sistema permitiu o registro completo de informações dos clientes, abrangendo dados de contato e endereço. Isso facilitou a administração do relacionamento com o cliente, proporcionando uma visão consolidada e de fácil acesso.
-</details>
+O sistema permite registrar todas as informações dos clientes, incluindo detalhes de contato e endereço. Isso facilita a administração do relacionamento com o cliente, oferecendo uma visão consolidada e de fácil acesso.
 
+</details>
 <details>
   <summary><b>Catalogação de Soluções</b></summary>
-  
-Criação de uma base de dados que mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso proporcionava uma referência rápida e precisa sobre os produtos da empresa, tanto para a equipe interna quanto para os clientes.
-</details>
+Há uma base de dados que mantém um catálogo detalhado das soluções e módulos oferecidos pela Dom Rock, destacando funcionalidades e versões disponíveis. Isso proporciona uma referência rápida e precisa sobre os produtos da empresa, tanto para a equipe interna quanto para os clientes.
 
+</details>
 <details>
   <summary><b>Processo de Ativação</b></summary>
-  
-O sistema definiu e gerenciou o processo de ativação, dividindo-o em etapas específicas, cada uma com recursos e definições predefinidos. Isso garantiu uma ativação organizada e registrou o progresso para uma visão clara do status de cada cliente.
-</details>
+O sistema define e gerencia o processo de ativação, dividindo-o em etapas específicas, cada uma com recursos e definições predefinidos. Isso garante uma ativação organizada e registra o progresso para uma visão clara do status de cada cliente.
 
+</details>
 <details>
   <summary><b>Relatórios e Consultas</b></summary>
-  
-As funcionalidades de consulta e relatórios ofereceram uma análise detalhada dos dados, permitindo aos usuários visualizar métricas importantes, como desempenho por cliente, tipo de solução ativada e estágio do processo de ativação. Esses insights ajudaram nas decisões estratégicas, proporcionando uma compreensão completa do ambiente operacional.
+As funcionalidades de consulta e relatórios oferecem uma análise detalhada dos dados, permitindo aos usuários visualizar métricas importantes, como desempenho por cliente, tipo de solução ativada e estágio do processo de ativação. Esses insights ajudam nas decisões estratégicas, proporcionando uma compreensão completa do ambiente operacional.
+
 </details>
 
 
@@ -195,7 +194,7 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server
     </tr>
     <tr>
       <td>SQL Server</td>
-      <td>★★★★★</td>
+      <td>★★★★☆</td>
     </tr>
     <tr>
       <td>Java</td>
@@ -207,9 +206,10 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server
 ### Soft Skills
 
 **Resolução de Problemas**
-- <p align="justify">Durante o projeto, após uma das entregas, houve a necessidade de refatorar o banco de dados para melhor alinhar com os requisitos do cliente. Nesse momento, a comunicação com o Product Owner foi fundamental para realmente entender as expectativas e necessidades do cliente, garantindo que as alterações fossem adequadas e eficazes.</p>
+- <p align="justify">
+Durante o projeto, após uma das entregas, surgiu a necessidade de refatorar o banco de dados para melhor alinhar com os requisitos do cliente. Nesse momento, a comunicação com o Product Owner foi fundamental para compreender plenamente as expectativas e necessidades do cliente, garantindo que as alterações fossem apropriadas e eficazes.</p>
 **Comunicação eficaz**
-- <p align="justify">Durante o desenvolvimento, recebemos muitos feedbacks do cliente que nos direcionaram ao caminho correto. Foi essencial entender detalhadamente as necessidades do cliente para garantir que o produto final atendesse suas expectativas. Utilizamos essas informações para ajustar nossas abordagens e aprimorar continuamente o projeto, assegurando a entrega de uma solução alinhada com os requisitos do cliente.</p>
+- <p align="justify">Durante o desenvolvimento, recebemos muitos feedbacks do cliente que nos direcionam ao caminho correto. Foi essencial entender detalhadamente as necessidades do cliente para garantir que o produto final atende-se às suas expectativas. Utilizei essas informações para ajustar nossas abordagens e aprimorar continuamente o projeto.</p>
 
 </details>
 
