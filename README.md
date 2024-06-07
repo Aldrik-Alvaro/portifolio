@@ -252,20 +252,18 @@ O desafio do projeto foi criar um sistema para importar e armazenar dados meteor
 ### Funcionalidades
 <details>
   <summary><b>Cadastro de Estados e Regiões</b></summary>
-  
-O cadastro de Estados e Regiões proporcionou uma organização precisa das operações, permitindo análises específicas por região e melhorando consideravelmente a contextualização das informações.
-</details>
+O cadastro de Estados e Regiões proporciona uma organização precisa das operações, permitindo análises específicas por região e melhorando significativamente a contextualização das informações.
 
+</details>
 <details>
   <summary><b>Geração de Relatórios</b></summary>
-  
-A geração de Relatórios foi uma ferramenta indispensável para extrair insights valiosos e avaliar o desempenho do sistema. A capacidade de criar relatórios personalizados permitiu uma visualização abrangente dos dados, oferecendo detalhes sobre o estado das estações, o desempenho regional e as tendências temporais.
-</details>
+A geração de relatórios é uma ferramenta indispensável para extrair insights valiosos e avaliar o desempenho do sistema. A capacidade de criar relatórios personalizados permite uma visualização abrangente dos dados, oferecendo detalhes sobre o estado das estações, o desempenho regional e as tendências temporais.
 
+</details>
 <details>
   <summary><b>Importação de Dados</b></summary>
-  
-A Importação de Dados otimizou o fluxo de informações no sistema, facilitando a transferência rápida de grandes conjuntos de dados. Isso assegurou uma atualização eficiente do sistema, mantendo sempre atualizado e pronto para fornecer análises precisas.
+A importação de dados otimiza o fluxo de informações no sistema, facilitando a transferência rápida de grandes conjuntos de dados. Isso assegura uma atualização eficiente do sistema, mantendo-o sempre atualizado e pronto para fornecer análises precisas.
+
 </details>
 
 ### Tecnologias Utilizadas
@@ -279,14 +277,10 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
 ### Contribuições Pessoais
 
 #### Desenvolvimento do back-end:
- - Fui responsável pelo desenvolvimento do back-end utilizando Java SE 14 e o framework Spring Boot. Implementei funcionalidades essenciais e a lógica de negócios, criando endpoints RESTful para manipulação de dados. Utilizei técnicas de injeção de dependência e configuração automática para melhorar a eficiência e modularidade do código.
+ - Fui responsável pelo desenvolvimento do back-end. Implementei funcionalidades essenciais e a lógica de negócios, como listagem e filtro de dados meteorológicos, criando endpoints RESTful para manipulação de dados.
 
 #### Comunicação entre front-end e back-end:
- - Assegurei uma comunicação eficiente entre o front-end e o back-end, implementando APIs RESTful com Spring Boot. Utilizei Thymeleaf para renderizar templates HTML e facilitar a integração entre as camadas. Configurei mecanismos de autenticação e autorização usando JWT, garantindo a segurança na transmissão de informações.
-
-#### Implementação de filtros dinâmicos utilizando Ajax:
- - Implementei filtros dinâmicos utilizando Ajax para proporcionar uma experiência de usuário mais responsiva e interativa. Utilizei JavaScript para realizar requisições assíncronas ao servidor, permitindo a atualização em tempo real dos dados exibidos sem a necessidade de recarregar a página. Desenvolvi a lógica de filtragem no back-end, garantindo que os resultados retornados fossem precisos e relevantes.
-
+ - Assegurei uma comunicação eficiente entre o front-end e o back-end, utilizando Ajax para realizar filtros dinâmicos.
 
 ### Hard Skills  
 <table>
@@ -296,7 +290,7 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
     </tr>
     <tr>
       <td>HTML</td>
-      <td>★★★★☆</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Bootstrap</td>
@@ -312,10 +306,7 @@ A Importação de Dados otimizou o fluxo de informações no sistema, facilitand
 ### Soft Skills
 
 **Trabalho em Equipe**
-- <p align="justify">Durante o projeto, após uma das entregas, a cliente expressou o desejo de ter os gráficos divididos em categorias em vez de um único dashboard com todo o conteúdo. Nesse momento, o trabalho em equipe foi fundamental para resolvermos a questão da implementação. Como uma das responsáveis pela criação dos gráficos, pude participar ativamente da divisão das tarefas e da implementação junto com a equipe.</p>
-
-**Capacidade de Aprender Rapidamente**
-- <p align="justify">Durante o desenvolvimento do projeto Enfrentei o desafio de plotar o primeiro gráfico com os dados gerados pela API, algo que nunca havia realizado anteriormente, o que exigiu aprender rapidamente para conseguir realizar a entrega na sprint. Isso envolveu assistir a vídeos, ler documentações e realizar pesquisas para superar as dificuldades encontradas no caminho.</p>
+- <p align="justify">Durante o projeto, o cliente expressou a vontantade de possuir um crud para gerenciamento de usuarios em sua plataforma, como era algo que não estava em nosso escopo, foi necessario um esforço maior da equipe para que atendenssemos a solicitação do cliente.</p>
 
 </details>
 
