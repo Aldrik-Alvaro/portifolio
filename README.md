@@ -19,6 +19,10 @@ Após 1 ano, recebi um convite para enfrentar outro desafio, que seria estagiar 
 </p>
 
 <p align="justify">
+Depois desse período, tive a oportunidade de atuar como Analista de Banco de Dados em uma empresa que faz a gestão e controle da Supply Chain, onde adquiri conhecimentos valiosos sobre otimização de consultas e gerenciamento de banco de dados.
+</p>
+
+<p align="justify">
 Estou entusiasmado em trabalhar nessa área dinâmica e em constante evolução, onde posso aplicar meus conhecimentos teóricos e habilidades práticas para resolver problemas complexos relacionados a dados. Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias e ferramentas para se manter atualizado nas tendências da área.
 </p>
 
@@ -276,10 +280,10 @@ A importação de dados otimiza o fluxo de informações no sistema, facilitando
 ### Contribuições Pessoais
 
 #### Desenvolvimento do back-end:
- - Fui responsável pelo desenvolvimento do back-end. Implementei funcionalidades essenciais e a lógica de negócios, como listagem e filtro de dados meteorológicos, criando endpoints RESTful para manipulação de dados.
+ - Fui responsável pelo desenvolvimento do back-end. Implementei funcionalidades essenciais como listagem de dados meteorológicos, para que fosse possivel realizar a listagem de dados na aplicação.
 
 #### Comunicação entre front-end e back-end:
- - Assegurei uma comunicação eficiente entre o front-end e o back-end, utilizando Ajax para realizar filtros dinâmicos.
+ - Assegurei uma comunicação eficiente entre o front-end e o back-end, utilizando Ajax para realizar filtros dinâmicos no front-end.
 
 ### Hard Skills  
 <table>
@@ -292,17 +296,15 @@ A importação de dados otimiza o fluxo de informações no sistema, facilitando
       <td>★★★☆☆</td>
     </tr>
     <tr>
-      <td>Bootstrap</td>
-      <td>★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Chart.js</td>
+      <td>Spring Boot</td>
       <td>★★★☆☆</td>
     </tr>
   </table>
 
 
 ### Soft Skills
+**Adaptabilidade**
+- <p align="justify">Ao longo do projeto, foi necessário integrar o back-end e o front-end. Tive que me adaptar às tecnologias que havia aprendido recentemente para realizar essa integração de maneira eficiente.</p>
 
 **Trabalho em Equipe**
 - <p align="justify">Durante o projeto, o cliente expressou a vontade de possuir um CRUD para gerenciamento de usuários em sua plataforma. Como isso não estava em nosso escopo, foi necessário um esforço maior da equipe para que atendêssemos à solicitação do cliente.</p>
@@ -365,10 +367,10 @@ A interface administrativa foi criada para permitir aos administradores realizar
 ### Contribuições Pessoais
 
 #### Comunicação entre front-end e back-end: 
- - Assegurei a integração eficiente entre as camadas front-end e back-end, facilitando a transmissão precisa e segura de informações entre os sistemas Vue.js no front-end e Spring Boot no back-end.
+ - Assegurei a integração eficiente entre as camadas front-end e back-end utilizando Axios, facilitando a transmissão precisa e segura de informações entre os sistemas Vue.js no front-end e Spring Boot no back-end.
 
 #### Desenvolvimento do banco de dados:
- - Desempenhei um papel fundamental no design, implementação e manutenção do banco de dados Oracle Autonomous, garantindo sua integridade e desempenho para atender às necessidades do projeto.
+ - Desempenhei um papel fundamental no design e implementação do banco de dados, incluindo as tabelas necessárias para o CRUD de itens, além do motor de regras.
 
 ### Hard Skills
    <table>
@@ -377,8 +379,8 @@ A interface administrativa foi criada para permitir aos administradores realizar
       <th width="300px">Classificação</th>
     </tr>
     <tr>
-      <td>Oracle Analytics</td>
-      <td>★★★★☆</td>
+      <td>Spring Boot</td>
+      <td>★★★☆☆</td>
     </tr>
     <tr>
       <td>Vue.js</td>
@@ -393,7 +395,7 @@ A interface administrativa foi criada para permitir aos administradores realizar
 ### Soft Skills
 
 **Criatividade**
-- <p align="justify">Durante o projeto, enfrentamos desafios que exigiam soluções criativas para atividades desconhecidas. Em uma situação em que precisávamos de uma solução rápida, optamos por criar notificações por trigger no banco de dados. Essa abordagem nos permitiu armazenar informações e notificar o cliente sobre atualizações importantes, melhorando significativamente a funcionalidade do sistema.</p>
+- <p align="justify">Durante o projeto, houve várias versões do motor de regras; sempre repensava de outra forma mais eficiente de realizá-lo. Utilizando a lógica e a criatividade, pude chegar à versão final.</p>
 
 **Comunicação Assertiva**
 - <p align="justify">Durante o projeto, foi essencial exercitar minha habilidade de comunicação assertiva ao negociar as entregas com o cliente. Este aspecto foi fundamental para garantir que a equipe pudesse executar o projeto de forma eficaz, atendendo às expectativas estabelecidas. Essa interação pessoal foi crucial para alinhar as necessidades do cliente com as capacidades da equipe, resultando em um processo de trabalho mais fluido e produtivo.</p>
