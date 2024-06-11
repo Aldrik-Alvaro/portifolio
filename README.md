@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Aldrik-Alvaro/bertoti/main/portfolio/IMG_20230921_181017.jpg" width="15%"></p>
 
 <p align="justify">
-Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal, tenho 23 anos e resido em São José dos Campos. Minha paixão pela programação começou enquanto eu estava estudando no curso técnico de Análise e Desenvolvimento de Sistemas na ETEC Ilza Nascimento Pintus, onde percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
+Olá, meu nome é Aldrik Alvaro. Sou um estudante de Banco de Dados na FATEC Prof. Jessen Vidal, tenho 22 anos e resido em São José dos Campos. Minha paixão pela programação começou enquanto eu estava estudando no curso técnico de Análise e Desenvolvimento de Sistemas na ETEC Ilza Nascimento Pintus, onde percebi o quão importante é gerenciar e analisar informações de maneira eficiente.
 </p>
 
 <p align="justify">
@@ -366,6 +366,8 @@ A interface administrativa foi criada para permitir aos administradores realizar
 
 ### Contribuições Pessoais
 
+#### Atuação como Scrum Master: 
+ - Atuei como Scrum Master da equipe facilitando o processo de Scrum, removendo obstaculos e orientando a equipe. 
 #### Comunicação entre front-end e back-end: 
  - Assegurei a integração eficiente entre as camadas front-end e back-end utilizando Axios, facilitando a transmissão precisa e segura de informações entre os sistemas Vue.js no front-end e Spring Boot no back-end.
 
@@ -395,10 +397,10 @@ A interface administrativa foi criada para permitir aos administradores realizar
 ### Soft Skills
 
 **Criatividade**
-- <p align="justify">Durante o projeto, houve várias versões do motor de regras; sempre repensava de outra forma mais eficiente de realizá-lo. Utilizando a lógica e a criatividade, pude chegar à versão final.</p>
+- <p align="justify">Durante o projeto, houve várias versões do motor de regras, sempre repensava de outra forma mais eficiente de realizá-lo. Utilizando a lógica e a criatividade, pude chegar à versão final.</p>
 
-**Comunicação Assertiva**
-- <p align="justify">Durante o projeto, foi essencial exercitar minha habilidade de comunicação assertiva ao negociar as entregas com o cliente. Este aspecto foi fundamental para garantir que a equipe pudesse executar o projeto de forma eficaz, atendendo às expectativas estabelecidas. Essa interação pessoal foi crucial para alinhar as necessidades do cliente com as capacidades da equipe, resultando em um processo de trabalho mais fluido e produtivo.</p>
+**Liderança**
+- <p align="justify">Nesse projeto, atuei como Scrum Master da equipe, tendo a responsabilidade de gerenciar o time, orientando os desenvolvedores em eventuais dúvidas e direcionando o projeto para o caminho correto.</p>
 
 
 
