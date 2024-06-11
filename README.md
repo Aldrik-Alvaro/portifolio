@@ -471,14 +471,10 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Front-end:
- - Desempenhei um papel fundamental no desenvolvimento do front-end, implementando funcionalidades e aprimorando a experiência do usuário no projeto.
-
-#### Comunicação entre front-end e back-end:
- - Assegurei uma comunicação eficiente e precisa entre as camadas front-end e back-end, garantindo a integração fluida e a transmissão correta de informações.
+ - Desempenhei um papel fundamental no desenvolvimento do front-end, implementando cabeçalhos, menu lateral e a integração da ferramenta analítica Oracle Analytics.
 
 #### Criação de gráficos e visualizações no BI:
- - Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, utilizando dados provenientes da integração entre front-end e back-end para apresentar informações relevantes de forma clara e visualmente impactante.
-
+ - Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, utilizando dados provenientes da integração entre o front-end e o back-end para apresentar informações relevantes, como o controle de insumos, fornecedores e pessoas.
 
 ### Hard Skills
 <table>
@@ -502,11 +498,11 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 
 ### Soft Skills
 
-**Planejamento e Organização**
-- <p align="justify">Durante o desenvolvimento do backend neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
+**Criatividade**
+- <p align="justify">Durante o desenvolvimento, à medida que os dados aumentavam em nosso data warehouse, era necessário que eu pensasse de maneira criativa sobre como poderia utilizar esses dados para gerar insights valiosos.</p>
 
-**Proatividade**
-- <p align="justify">Durante o projeto, demonstrei proatividade ao oferecer suporte aos colegas e ao antecipar possíveis obstáculos. Uma das formas em que isso se manifestou foi na minha iniciativa em realizar testes unitários regularmente para garantir que as funcionalidades estivessem funcionando conforme o esperado. Essa abordagem não apenas assegurou a qualidade do código, mas também contribuiu para o bem-estar da equipe, mantendo um ambiente de trabalho mais estável e produtivo.</p>
+**Atenção ao Detalhe**
+- <p align="justify">Na construção do projeto, meu objetivo era criar algo profissional e, por isso, dediquei especial atenção à construção do front-end para que ficasse o mais fiel possível à identidade visual do cliente.</p>
 
 </details>
 
