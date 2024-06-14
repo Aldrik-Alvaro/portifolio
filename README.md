@@ -110,9 +110,9 @@ Nosso objetivo foi analisar os dados da COVID-19 no estado de São Paulo e entre
   ### Soft Skills
 
 **Adaptabilidade**
-- <p align="justify">Trabalhando com diversas linguagens e tecnologias que eu nunca havia utilizado antes, consegui adaptar e expandir meu conhecimento para novos horizontes.</p>
+- <p align="justify"></p>Trabalhando com Python no começo, enfrentei muitas dificuldades para completar certas tarefas. Precisei estudar bastante e me adaptar a essa linguagem.</p>
 **Trabalho em Equipe**
-- <p align="justify">Como meu primeiro projeto na Fatec, esse foi também o meu primeiro projeto em equipe utilizando a metodologia Scrum. Essa experiência me ensinou que o trabalho em equipe é fundamental para o sucesso do projeto.</p>
+- <p align="justify">Como meu primeiro projeto na Fatec, esse também foi meu primeiro projeto em equipe utilizando a metodologia Scrum. Senti dificuldades no início ao trabalhar em equipe, mas com o tempo fui me adaptando ao trabalho colaborativo.</p>
 
 </details>
 
@@ -208,10 +208,10 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server
 
 ### Soft Skills
 
-**Resolução de Problemas**
-- <p align="justify">Durante o projeto, após uma das entregas, surgiu a necessidade de refatorar o banco de dados para melhor alinhar com os requisitos do cliente. Nesse momento, a comunicação com o Product Owner foi fundamental para compreender plenamente as expectativas e necessidades do cliente, garantindo que as alterações fossem apropriadas e eficazes.</p>
+**Agilidade de trabalho**
+- <p align="justify">Durante o projeto, após uma entrega, precisei refatorar o banco de dados para melhor atender aos requisitos do cliente. Foi crucial agir rapidamente para garantir mudanças adequadas e eficazes.</p>
 **Comunicação eficaz**
-- <p align="justify">Durante o desenvolvimento, recebemos muitos feedbacks do cliente que nos direcionam ao caminho correto. Foi essencial entender detalhadamente as necessidades do cliente para garantir que o produto final atende-se às suas expectativas. Utilizei essas informações para ajustar nossas abordagens e aprimorar continuamente o projeto.</p>
+- <p align="justify">Durante o desenvolvimento, recebemos muitos feedbacks valiosos do cliente, que nos orientaram na direção certa. Foi crucial entender profundamente suas necessidades para garantir que o produto final atendesse plenamente às suas expectativas. Utilizei essas informações para ajustar nossas abordagens e melhorar continuamente o projeto.</p>
 
 </details>
 
@@ -572,9 +572,7 @@ O logout manual oferecia aos usuários controle sobre suas próprias sessões. E
 - [React.js](https://react.dev/): React é uma biblioteca JavaScript de código-aberto, focalizada no desenvolvimento de interfaces de usuário.
 - [Material-UI](https://mui.com/material-ui/getting-started/installation/): é uma biblioteca de componentes React para construir interfaces de usuário consistentes e bonitas.
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS): utilizado para estilização do dashboard.
-- [ApexCharts](https://www.oracle.com/business-analytics/): é uma biblioteca JavaScript de gráficos interativos de código-aberto, que oferece uma ampla gama de opções para visualização de dados.
 - [PostgreSQL](https://www.postgresql.org): sistema de Gerenciamento de Banco de Dados para desenvolvimento do projeto.
-- [Figma](https://www.figma.com/): ferramenta para o desenvolvimento e prototipação das wireframes. 
 
 
 ### Contribuições Pessoais
