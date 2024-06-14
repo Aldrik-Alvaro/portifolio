@@ -149,7 +149,6 @@ O desafio foi desenvolver uma solução para gerenciar a ativação de clientes 
 
 ### Funcionalidades
 
-Funcionalidades
 <details>
   <summary><b>Gestão de Clientes</b></summary>
 O sistema permite registrar todas as informações dos clientes, incluindo detalhes de contato e endereço. Isso facilita a administração do relacionamento com o cliente, oferecendo uma visão consolidada e de fácil acesso.
@@ -474,8 +473,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
  - Desempenhei um papel fundamental no desenvolvimento do front-end, implementando cabeçalhos, menu lateral e a integração da ferramenta analítica Oracle Analytics.
 
 #### Criação de gráficos e visualizações no BI:
- - Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, utilizando dados provenientes da integração entre o front-end e o back-end para apresentar informações relevantes, como o controle de insumos, fornecedores e pessoas.
-
+ - Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, como visualizações de controle de estoque, gerenciamento de insumos e funcionários.
 ### Hard Skills
 <table>
   <tr>
@@ -582,12 +580,9 @@ O logout manual oferecia aos usuários controle sobre suas próprias sessões. E
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Banco de dados:
-Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server, trabalhei desde seu design, estruturação e implementação de Tabelas, Gatilhos e Funções. Minhas atividades envolveram:
+Como Desenvolvedor responsavel por criar e gerenciar o banco de dados Postgre, trabalhei desde seu design, estruturação e implementação de Tabelas, Gatilhos e Funções. Minhas atividades envolveram:
  - Design do banco de dados.
  - Criação e gerenciamentos de tabelas, gatilhos e funções.
- - Criação de views para a visualização de insights.
- 
-
 
 ### Hard Skills
 <table>
@@ -597,11 +592,7 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server
   </tr>
   <tr>
     <td>PostgreSQL</td>
-    <td>★★★★☆</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>★★★★☆</td>
+    <td>★★★★★</td>
   </tr>
 </table>
 
@@ -609,8 +600,5 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados SQL Server
 
 **Planejamento e Organização**
 - <p align="justify">Durante o desenvolvimento do banco de dados neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend e back end tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
-
-**Proatividade**
-- <p align="justify">Durante o projeto, demonstrei proatividade ao oferecer suporte aos colegas e ao antecipar possíveis obstáculos. Uma das formas em que isso se manifestou foi na minha iniciativa em realizar testes unitários regularmente para garantir que as funcionalidades estivessem funcionando conforme o esperado. Essa abordagem não apenas assegurou a qualidade do código, mas também contribuiu para o bem-estar da equipe, mantendo um ambiente de trabalho mais estável e produtivo.</p>
 
 </details>
