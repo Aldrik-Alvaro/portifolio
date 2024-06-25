@@ -279,7 +279,7 @@ A importação de dados otimiza o fluxo de informações no sistema, facilitando
 ### Contribuições Pessoais
 
 #### Desenvolvimento do back-end:
- - Fui responsável pelo desenvolvimento do back-end. Implementei funcionalidades essenciais como listagem de dados meteorológicos, para que fosse possivel realizar a listagem de dados na aplicação.
+ - Fui responsável pelo desenvolvimento do back-end referente à listagem de dados como temperatura, umidade, pressão atmosférica, entre outros.
 
 #### Comunicação entre front-end e back-end:
  - Assegurei uma comunicação eficiente entre o front-end e o back-end, utilizando Ajax para realizar filtros dinâmicos no front-end.
@@ -399,7 +399,7 @@ A interface administrativa foi criada para permitir aos administradores realizar
 - <p align="justify">Durante o projeto, houve várias versões do motor de regras, sempre repensava de outra forma mais eficiente de realizá-lo. Utilizando a lógica e a criatividade, pude chegar à versão final.</p>
 
 **Liderança**
-- <p align="justify">Nesse projeto, atuei como Scrum Master da equipe, foi uma dificuldade ter a responsabilidade de gerenciar a equipe no inicio do projeto na qual consegui superar ao passar das sprints.</p>
+- <p align="justify">Nesse projeto, atuei como Scrum Master da equipe. Foi difícil ter a responsabilidade de gerenciar a equipe no início do projeto, mas consegui superar essa dificuldade ao longo das sprints, orientando todos para um melhor desenvolvimento do projeto.</p>
 
 
 
@@ -582,6 +582,11 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados Postgre, t
  - Design do banco de dados.
  - Criação e gerenciamentos de tabelas, gatilhos e funções.
 
+#### Scripts de Contingência:
+Fui responsável por pensar e criar medidas de contingência para duas situações: em caso de restauração do banco de dados e em caso de invasão do banco:
+ - Em caso de restauração do banco: O principal foco foi garantir que usuários que haviam sido deletados voltassem para a base de dados em caso de restauração.
+ - Em caso de invasão do banco: O foco foi garantir que, em caso de invasões, subíssemos um banco de contingência e, em seguida, informássemos nossos usuários através do email.
+
 ### Hard Skills
 <table>
   <tr>
@@ -597,6 +602,6 @@ Como Desenvolvedor responsavel por criar e gerenciar o banco de dados Postgre, t
 ### Soft Skills
 
 **Planejamento e Organização**
-- <p align="justify">Durante o desenvolvimento do banco de dados neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo frontend e back end tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das necessidades das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
+- <p align="justify">Durante o desenvolvimento do banco de dados neste projeto, eu precisava garantir que as tarefas fossem concluídas dentro do prazo para que meus colegas responsáveis pelo front-end e back-end tivessem tempo suficiente para executar suas atividades dentro dos prazos estipulados em cada sprint. A organização e o planejamento das atividades mais urgentes foram fundamentais para garantir uma distribuição eficiente do trabalho e o cumprimento das metas estabelecidas.</p>
 
 </details>
