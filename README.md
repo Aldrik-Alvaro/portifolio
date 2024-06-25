@@ -399,7 +399,7 @@ A interface administrativa foi criada para permitir aos administradores realizar
 - <p align="justify">Durante o projeto, houve várias versões do motor de regras, sempre repensava de outra forma mais eficiente de realizá-lo. Utilizando a lógica e a criatividade, pude chegar à versão final.</p>
 
 **Liderança**
-- <p align="justify">Nesse projeto, atuei como Scrum Master da equipe, tendo a responsabilidade de gerenciar o time, orientando os desenvolvedores em eventuais dúvidas e direcionando o projeto para o caminho correto.</p>
+- <p align="justify">Nesse projeto, atuei como Scrum Master da equipe, foi uma dificuldade ter a responsabilidade de gerenciar a equipe no inicio do projeto na qual consegui superar ao passar das sprints.</p>
 
 
 
@@ -470,7 +470,7 @@ Com base nas análises feitas pelos comparadores, o sistema gerava recomendaçõ
 ### Contribuições Pessoais
 
 #### Desenvolvimento do Front-end:
- - Desempenhei um papel fundamental no desenvolvimento do front-end, implementando cabeçalhos, menu lateral e a integração da ferramenta analítica Oracle Analytics.
+ - Desempenhei um papel fundamental no desenvolvimento do front-end, implementando cabeçalhos, menu lateral e a integração da ferramenta Oracle Analytics.
 
 #### Criação de gráficos e visualizações no BI:
  - Fui responsável pela criação e implementação de gráficos e visualizações no ambiente de Business Intelligence, como visualizações de controle de estoque, gerenciamento de insumos e funcionários.
